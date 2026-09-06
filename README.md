@@ -1,16 +1,12 @@
-# Halo, Aku [Nama Panggilan Kamu]! 👋
-
-<p align="center">
-  <img src="https://api.screenshotmachine.com?key=YOUR_SCREENSHOT_KEY&url=YOUR_PORTFOLIO_URL&dimension=1024x768" width="80%">
-</p>
+# Halo, Kanda di sini menemani perjalanan kodingmu! 👋
 
 ### 💫 Tentang Saya
 
-*   🔭 Saya seorang [Keahlian Utama, misal: Developer Website, Penulis Kode, dll.] yang bersemangat untuk menciptakan hal-hal baru.
-*   🌱 Saat ini saya sedang mendalami [Teknologi yang Sedang Dipelajari, misal: React, Python, UI/UX Design].
-*   👯 Saya terbuka untuk berkolaborasi dalam proyek [Jenis Proyek, misal: Open Source, Proyek Startup].
-*   💬 Jangan ragu untuk bertanya kepada saya tentang [Keahlian Spesifik].
-*   ⚡ Fun fact: [Fakta Menarik tentang Dirimu, misal: Suka kopi, hobby fotografi, dll.]
+*   🔭 Saya seorang pengembang teknologi web dan middleware.
+*   🌱 Saat ini saya sedang mendalami topik biasa saja penting berkah.
+*   👯 Saya terbuka untuk berkolaborasi dalam pekerjaan komunitas, sosial, maupun korporasi.
+*   💬 Boleh berdikusi melalui kontak yang tersedia.
+*   ⚡ Berdiri di atas derita dan duka mendalam
 
 ### 🛠️ Keahlian & Teknologi
 
@@ -35,17 +31,6 @@
 ### 📊 Statistik GitHub
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=nord)
-
-### 👯 Hubungi Saya
-
-<p align="left">
-  <a href="https://linkedin.com/in/[USERNAME_LINKEDIN_KAMU]">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:[ALAMAT_EMAIL_KAMU]">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 ---
 
